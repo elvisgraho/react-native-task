@@ -7,4 +7,4 @@
 3. Run `npm install` or `yarn install` to install dependencies.
 4. Run `npx expo start`
   
-[https://reactnative.dev/docs/environment-setup?guide=quickstart](React Native Environment Setup Guide)
+[React Native Environment Setup Guide](https://reactnative.dev/docs/environment-setup?guide=quickstart)
